@@ -7,10 +7,10 @@
       <class name="venkat.journey.tests.FlightBookingSteps"/>
     </classes>
   </test> 
-   <test thread-count="5" name="Test_Mozilla222">
+  <!--  <test thread-count="5" name="Test_Mozilla222">
   <parameter name= "browser" value= "firefox"/>
     <classes>
       <class name="venkat.journey.tests.FlightBookingSteps"/>
     </classes>
-  </test> 
+  </test>  -->
 </suite> 
