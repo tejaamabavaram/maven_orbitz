@@ -16,6 +16,7 @@ public class BaseTest implements InterfaceConstants {
 		System.setProperty(GECKO_KEY, GECKO_VALUE);
 		
 		}
+	//add parameters
 	@Parameters({"browser"})
 	@BeforeMethod(alwaysRun=true)
 	public void openApplication(String browser)
